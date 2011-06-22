@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors_variables</key>
+	<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAIPnnHM+AQGG</data>
+	<key>colors_comments</key>
+	<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAIPp6Og+AAGG</data>
+	<key>colors_strings</key>
+	<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmg4GAAD+DgYCAPgABhg==</data>
+	<key>colors_keyword</key>
+	<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAAABAYY=</data>
+	<key>autocomplete</key>
+	<integer>0</integer>
+	<key>show_error</key>
+	<integer>1</integer>
+	<key>terminating_errors</key>
+	<array>
+		<string>E_USER_NOTICE</string>
+		<string>E_USER_WARNING</string>
+		<string>E_USER_ERROR</string>
+		<string>E_COMPILE_WARNING</string>
+		<string>E_COMPILE_ERROR</string>
+		<string>E_CORE_WARNING</string>
+		<string>E_CORE_ERROR</string>
+		<string>E_PARSE</string>
+		<string>E_WARNING</string>
+		<string>E_ERROR</string>
+	</array>
+	<key>php_binary</key>
+	<string>/usr/bin/php</string>
+	<key>default_output</key>
+	<integer>0</integer>
+</dict>
+</plist>
