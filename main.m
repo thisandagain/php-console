@@ -3,7 +3,7 @@
 //  PHP Console
 //
 //  Created by admin on 5/11/09.
-//  Copyright __MyCompanyName__ 2009. All rights reserved.
+//  Copyright Andrew Sliwinski 2009. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
